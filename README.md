@@ -33,6 +33,8 @@
    ```bash
    0 3 * * * python3 ~/wazuh-to-dojo/run_export.py --rescan <test_id> >> /var/log/wazuh-to-dojo.log 2>&1
    ```
+----
+   
 
 ### License
 
